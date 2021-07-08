@@ -1,0 +1,59 @@
+.explore{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 45px;
+    margin-right: 200px;
+    opacity: 0.9;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+.explore__row1, .explore__row2{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.explore__place{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 1s ease-out;
+    cursor: pointer;
+}
+
+.explore__place:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+    
+}
+
+.explore__place > img{
+    height: 67px;
+    width: 67px;
+    border-radius: 20px;
+    padding: 10px;
+    
+    
+}
+
+
+
+.explore__place > div {
+    width: 200px;
+
+}
+
+
+h1{
+    font-size: 15px;
+    font-weight: lighter;
+    /* width: 270px; */
+}
+
+.time{
+    font-weight: normal
+}

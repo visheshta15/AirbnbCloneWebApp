@@ -1,0 +1,53 @@
+.banner{
+    /* background: url(bg7.jpg);
+    background-position: 25% 65%; */
+    background: url(images/bg11.png) ;
+    background-position: 25% 90%;
+    background-position-x: -300px;
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.banner__search{
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__searchButton{
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}
+
+.banner__info{
+    background-color: black;
+    color: white;
+    padding-left: 50px; 
+    padding-right: 50px;   
+    padding-top: 20vh;
+    padding-bottom: 40px;
+    width: 300px;
+}
+
+.banner__info >  button{
+    background-color: #ff7779;
+    color: white;
+    /* MUI make the text in upper case to make in into it original shape */
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.banner__info >  button:hover{
+    background-color: white;
+    color: #ff7779;
+}
+
+.banner__info > h5{
+    margin-top: 10px;
+}
