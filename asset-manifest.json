@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/AirbnbCloneWebApp/static/css/main.129b9ffd.chunk.css",
+    "main.js": "/AirbnbCloneWebApp/static/js/main.aa920fe9.chunk.js",
+    "main.js.map": "/AirbnbCloneWebApp/static/js/main.aa920fe9.chunk.js.map",
+    "runtime-main.js": "/AirbnbCloneWebApp/static/js/runtime-main.d4128a24.js",
+    "runtime-main.js.map": "/AirbnbCloneWebApp/static/js/runtime-main.d4128a24.js.map",
+    "static/css/2.c2e18bb2.chunk.css": "/AirbnbCloneWebApp/static/css/2.c2e18bb2.chunk.css",
+    "static/js/2.90fa8fa9.chunk.js": "/AirbnbCloneWebApp/static/js/2.90fa8fa9.chunk.js",
+    "static/js/2.90fa8fa9.chunk.js.map": "/AirbnbCloneWebApp/static/js/2.90fa8fa9.chunk.js.map",
+    "static/js/3.d7397861.chunk.js": "/AirbnbCloneWebApp/static/js/3.d7397861.chunk.js",
+    "static/js/3.d7397861.chunk.js.map": "/AirbnbCloneWebApp/static/js/3.d7397861.chunk.js.map",
+    "index.html": "/AirbnbCloneWebApp/index.html",
+    "static/css/2.c2e18bb2.chunk.css.map": "/AirbnbCloneWebApp/static/css/2.c2e18bb2.chunk.css.map",
+    "static/css/main.129b9ffd.chunk.css.map": "/AirbnbCloneWebApp/static/css/main.129b9ffd.chunk.css.map",
+    "static/js/2.90fa8fa9.chunk.js.LICENSE.txt": "/AirbnbCloneWebApp/static/js/2.90fa8fa9.chunk.js.LICENSE.txt",
+    "static/media/airbnb-logo.16560a98.png": "/AirbnbCloneWebApp/static/media/airbnb-logo.16560a98.png",
+    "static/media/Banner.css": "/AirbnbCloneWebApp/static/media/bg11.d2443c64.png",
+    "static/media/c1.69fbf9c4.jpg": "/AirbnbCloneWebApp/static/media/c1.69fbf9c4.jpg",
+    "static/media/c22.3eff66ba.jpg": "/AirbnbCloneWebApp/static/media/c22.3eff66ba.jpg",
+    "static/media/c5.9f01b3ff.jpg": "/AirbnbCloneWebApp/static/media/c5.9f01b3ff.jpg",
+    "static/media/c7.a8f7a7e7.jpg": "/AirbnbCloneWebApp/static/media/c7.a8f7a7e7.jpg",
+    "static/media/c8.82089dea.jpg": "/AirbnbCloneWebApp/static/media/c8.82089dea.jpg",
+    "static/media/c9.b9a606a6.jpg": "/AirbnbCloneWebApp/static/media/c9.b9a606a6.jpg",
+    "static/media/d1.0ae972b6.jpg": "/AirbnbCloneWebApp/static/media/d1.0ae972b6.jpg",
+    "static/media/d2.2fc08347.jpg": "/AirbnbCloneWebApp/static/media/d2.2fc08347.jpg",
+    "static/media/d3.e3857fca.jpg": "/AirbnbCloneWebApp/static/media/d3.e3857fca.jpg",
+    "static/media/d4.cd504d89.jpg": "/AirbnbCloneWebApp/static/media/d4.cd504d89.jpg",
+    "static/media/d5.b07185b3.jpg": "/AirbnbCloneWebApp/static/media/d5.b07185b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4128a24.js",
+    "static/css/2.c2e18bb2.chunk.css",
+    "static/js/2.90fa8fa9.chunk.js",
+    "static/css/main.129b9ffd.chunk.css",
+    "static/js/main.aa920fe9.chunk.js"
+  ]
+}
